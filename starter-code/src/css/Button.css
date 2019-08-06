@@ -1,0 +1,8 @@
+.App-button {
+  min-width: 15%;
+  height: 10%;
+  margin: 5% 0;
+  border-radius: 10px;
+  color: #1F2535;
+  font-size: 2.5rem;
+}
